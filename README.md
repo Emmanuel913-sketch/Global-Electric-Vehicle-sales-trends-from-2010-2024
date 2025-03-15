@@ -1,6 +1,8 @@
-# Project XYZ
+# Global Electric Vehicle Sales trends from 2010-2024
 
-**Project XYZ** is a comprehensive data analysis tool designed to streamline data exploration, analysis, and visualisation. The tool supports multiple data formats and provides an intuitive interface for both novice and expert data scientists.
+**Global EV sales trends 2010 - 2024** seeks to analyse sales and stock data of electric vehicles trend globally. By analysing the trend in EV adoption per region or even per country, helps the businesses (EV manufacturers to car dealerships) to understand which regions of the world are purchising more EVs and in what type of vehicle mode. This project will help businesses to predict future EV sales, for example by 2035, using the insights gained from this data that covers 2010 to 2024. By understanding factors like vehicle mode and count per region helps businesses to make decisions on whether to invest in EVs in a particular region or not. It also helps gorvenment authorities whether to invest in EV infrastructure or not infrastructure, like charging points. This project will help vehicle manufacturers to predict adoption of EVs by 2035 by the insights gained in trends from 2010-2024 data.
+The manufacturers would also gain understanding on which EV type is more trendig between BEV, PHEV or HEV segments in which regions for better decision making. Th ibsights gained from data analysis and visualisations is achieved using different methods.
+
 
 # ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
@@ -14,7 +16,9 @@
 
 
 ## Hypothesis and how to validate?
-* List here your project hypothesis(es) and how you envision validating it (them) 
+* Hypothesis 1: The global sales of electric vehicles (EVs) have shown a consistent year-over-year increase from 2010 to 2024 and projected to continue the trend to 2035.
+
+Validation: Perform a time series analysis on the annual EV sales data to identify trends and calculate the year-over-year growth rates.
 
 ## Project Plan
 * Outline the high-level steps taken for the analysis.
