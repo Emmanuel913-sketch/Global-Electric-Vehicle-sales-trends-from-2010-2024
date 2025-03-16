@@ -80,8 +80,7 @@ Rationale: Stacked bar charts and pie charts effectively display the distributio
 * If applicable, include evidence of feedback received (from peers or instructors) and how it improved your approach or understanding.
 
 ## Development Roadmap
-* Tools do you plan to learn next based on your project experience: Reinforcement of visualisations and use of different charts and graphs. 
-
+* Reinforcement of visualisations and use of different charts and graphs. 
 
 ## Main Data Analysis Libraries
 * Pandas -  To load a CSV file with Python, we will use a library called Pandas as It has a specific function that reads CSV files by parsing the file path.
