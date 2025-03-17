@@ -13,7 +13,7 @@ The manufacturers would also gain understanding on which EV type is more trendig
 
 ## Business Requirements
 * Identify long-term growth trends in the global EV market from 2010 to 2024.
-* Analyze regional adoption rates and key market drivers influencing sales.
+* Analyse regional adoption rates and key market drivers influencing sales.
 * Evaluate competitive landscape and top EV manufacturers over the years.
 * Predict future market trends using historical data and forecasting techniques.
 * Provide insights to optimize marketing strategies and sales initiatives.
@@ -24,17 +24,18 @@ The manufacturers would also gain understanding on which EV type is more trendig
 
 ## Hypothesis and how to validate?
 * Hypothesis 1: The global sales of electric vehicles (EVs) have shown a consistent year-over-year increase from 2010 to 2024 and are projected to continue the trend to 2035.
-How to validate it: Perform a time series analysis on the annual EV sales data to identify trends and calculate the year-over-year growth rates.
+How to validate it: Perform a time series analysis on the annual EV sales data to identify trends and calculate the year-over-year growth rates. The analysis is done across different regions of the world, with an extra focus on top 10 leading countries and the bottom 10 to see the influencing factors for the adoption or lack there of. Analysis also takes into account the adoption of different EV powertrains
 
 * Hypothesis 2: The adoption rate of electric vehicles varies significantly by region, influenced by factors such as economic development, infrastructure availability, and cultural attitudes towards sustainability.
 How to validate it: Perform a regional analysis of EV sales data, comparing adoption rates across different regions. Use statistical tests to determine if there are significant differences in adoption rates and identify the key factors influencing these differences.
 
 * Hypothesis 3: Battery electric vehicles (BEVs) have experienced higher growth rates compared to plug-in hybrid electric vehicles (PHEVs) and hybrid electric vehicles (HEVs) from 2010 to 2024.
-How to validate it: Analyze the sales data by powertrain (powertrain and value) to compare the growth rates of BEVs, PHEVs, and HEVs. Use trend analysis to identify which powertrain type has the highest growth rate.
+How to validate it: Analyse the sales data by powertrain (powertrain and value) to compare the growth rates of BEVs, PHEVs, and HEVs. Use trend analysis to identify which powertrain type has the highest growth rate.
 
 * Hypothesis 4: The mode of electric vehicles (e.g., passenger cars, buses, vans) influences their adoption rates, with passenger cars showing higher adoption rates compared to other modes.
-
-Validation Approach: Analyze the sales data by mode (mode and value) to compare the adoption rates of different vehicle modes. Use statistical tests to determine if there are significant differences in adoption rates between passenger cars and other modes.
+How to validate it: Analyse the sales data by mode (mode and value) to compare the adoption rates of different vehicle modes. Use statistical tests to determine if there are significant differences in adoption rates between passenger cars and other modes.
+* Hypothesis 5: BEV powertrains continues to lead other powertrains for the seable future as the infrastructure (charging points) continue to increase.
+How to validate it: Analysis of powertrain sales trends and projections to 2035 with a prediction model too.
 
 ## Project Plan
 * Kanban planning: The kanban project planning is used to plan for tasks and tracking of tasks as the project progresses.
@@ -77,9 +78,9 @@ Rationale: Stacked bar charts and pie charts effectively display the distributio
 
 
 ## Unfixed Bugs
-* Please mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a significant variable to consider, paucity of time and difficulty understanding implementation are not valid reasons to leave bugs unfixed.
-* Did you recognise gaps in your knowledge, and how did you address them?
-* If applicable, include evidence of feedback received (from peers or instructors) and how it improved your approach or understanding.
+* There were some issues with rendering plotly charts, but the eventually the bug was ofixed by getting Gen AI to suggest a correction.
+* The other general difficulty was the data set itself, kwhich didn't have a lot of numerecals in the variables, so some charts were a bit plot, lfor example, Scatter plots which are ideal for numeric variables and to add the rendering bugs ontop of that, it was a challenge that was overcome never the less.
+* Also, colleagues helped with some debugging issues that I encountered.
 
 ## Development Roadmap
 * Reinforcement of visualisations and use of different charts and graphs. 
