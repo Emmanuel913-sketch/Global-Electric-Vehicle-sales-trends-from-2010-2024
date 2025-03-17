@@ -68,7 +68,7 @@ Rationale: Stacked bar charts and pie charts effectively display the distributio
 
 
 ## Ethical considerations
-* There Were no any persal data that could have violated any data privacy, bias or fairness issues with the data and there was nothing to anonymise.
+* There Were no any personal data that could have violated any data privacy, bias or fairness issues with the data and there was nothing to anonymise.
 * The data is within what is legally allowed from Kaggle.
 
 ## Dashboard Design
