@@ -1,10 +1,10 @@
+
+# ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+
 # Global Electric Vehicle Sales trends from 2010-2024
 
 **Global EV sales trends 2010 - 2024** seeks to analyse sales and stock data of electric vehicles trend globally. By analysing the trend in EV adoption per region or even per country, helps the businesses (EV manufacturers to car dealerships) to understand which regions of the world are purchasing more EVs and in what type of vehicle mode. This project will help businesses to predict future EV sales, for example by 2035, using the insights gained from this data that covers 2010 to 2024. By understanding factors like vehicle mode and count per region helps businesses to make decisions on whether to invest in EVs in a particular region or not. It also helps gorvenment authorities whether to invest in EV infrastructure or not, like charging stations. This project will help vehicle manufacturers to predict adoption of EVs by different regions by the yeaar 2035 and beyond. The predictions are achieved by the use of insights gained from the 2010-2024 data.
 The manufacturers would also gain understanding on which EV type is more trendig between BEV, PHEV or HEV segments and in which regions for better decision making. The insights gained from data analysis and visualisations is achieved using different methods of analytics.
-
-
-# ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 
 ## Dataset Content
@@ -72,7 +72,9 @@ Rationale: Stacked bar charts and pie charts effectively display the distributio
 * The data is within what is legally allowed from Kaggle.
 
 ## Dashboard Design
-* Dashboarding was perfomed in Power Bi. Link: 
+* Dashboarding was perfomed in Power Bi. Attached is the image/snippet of the dashboard ![alt text](image.png)
+* Power Bi Dashboard link: https://app.powerbi.com/groups/me/reports/05e9c51e-1f54-4578-8fd5-0334346af2a5/ae481787b0969eb49e51?experience=power-bi
+
 
 ## Unfixed Bugs
 * Please mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a significant variable to consider, paucity of time and difficulty understanding implementation are not valid reasons to leave bugs unfixed.
